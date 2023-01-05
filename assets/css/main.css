@@ -13691,7 +13691,6 @@ textarea::placeholder{
   border-radius: 4px;
 }
 
-<<<<<<< HEAD
 .grid-team-1{
   display: grid;
   grid-template-columns: 45% 45%;
@@ -13727,8 +13726,6 @@ textarea::placeholder{
   border-radius: 4px;
 }
 
-=======
->>>>>>> cdbb998e723b52a4481c6a44b5c9aa84dda642ac
 @media (max-width:1200px){
   .grid-team {
     display: grid;
@@ -13754,7 +13751,6 @@ textarea::placeholder{
     margin-top: 50px;
     margin-left: 10%;
   }
-<<<<<<< HEAD
 
   .grid-team-1{
     display: grid;
@@ -13763,8 +13759,6 @@ textarea::placeholder{
     margin-top: 50px;
     margin-left: 35%;
   }
-=======
->>>>>>> cdbb998e723b52a4481c6a44b5c9aa84dda642ac
 }
 
 @media (max-width:750px){
@@ -13798,7 +13792,6 @@ textarea::placeholder{
     width:250px;
     object-fit: cover;
   }
-<<<<<<< HEAD
   .grid-team-1 {
     display: grid;
     grid-template-columns: 92%;
@@ -13816,8 +13809,6 @@ textarea::placeholder{
     width:220px;
     object-fit: cover;
   }
-=======
->>>>>>> cdbb998e723b52a4481c6a44b5c9aa84dda642ac
 }
 
 .mem-info{
